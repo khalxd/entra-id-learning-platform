@@ -1,17 +1,19 @@
-# Microsoft Entra ID Interactive Homelab
+# Microsoft Entra ID IAM Administrator Homelab
 
-Interactive SC-300-aligned tutorial with 10 projects and 77 guided steps.
+Version 2 reorganizes the site into a 31-lab IAM Administrator learning path.
 
-Features:
+## Major improvement
+Lab 1 now uses:
+- Where to go
+- What to click
+- What to enter
+- Why you're doing it
+- How to verify it worked
+- Troubleshooting
+- Personal notes
 - Mark Done & Continue
-- Previous step navigation
-- Per-step notes saved in localStorage
-- Overall progress tracking
-- Search
-- Persistent dark mode
-- Help button with a quick tip and copyable ChatGPT help prompt
-- Progress export to JSON
-- Mobile responsive
+- Copyable help prompt
 
-Safety:
-Use a disposable/test tenant. Keep Conditional Access in Report-only while learning. Never publish passwords, Temporary Access Pass values, client secrets, or sensitive screenshots.
+The dynamic Finance group step also explicitly warns that membership processing can take several minutes.
+
+Upload `index.html` and `README.md` to the existing GitHub repository, replacing the old files.
