@@ -2,9 +2,7 @@
 
 An interactive Microsoft Entra ID learning platform designed to provide hands-on IAM practice through guided labs that simulate real administrative tasks.
 
-The homelab contains **31 labs**, **130 guided steps**, and covers identity administration, role management, authentication, governance, workload identities, and Microsoft Graph PowerShell.
-
----
+![Microsoft Entra ID Interactive Homelab Dashboard](images/dashboard.png)
 
 ## Features
 
@@ -16,57 +14,26 @@ The homelab contains **31 labs**, **130 guided steps**, and covers identity admi
 - Notes for every lab
 - Progress export and reset
 - Troubleshooting guidance
-- SC-300 exam connections
-- Real-world IAM scenarios
 
----
+## Topics Covered
 
-## Learning Topics
-
-### Identity Administration
-- Tenant configuration
-- User lifecycle management
-- Groups and memberships
-- Bulk user operations
-- Microsoft Graph PowerShell
-
-### Roles & Privileged Access
-- Directory roles
+- Microsoft Entra ID
+- User & Group Management
+- Role-Based Access Control (RBAC)
 - Administrative Units
-- Privileged Identity Management (PIM)
-- Emergency access accounts
-
-### Authentication & Access
-- Authentication methods
 - Conditional Access
-- Identity Protection
-- Password reset
-- Temporary Access Pass
-- Windows Hello for Business
-
-### Identity Governance
+- Privileged Identity Management (PIM)
 - Entitlement Management
-- Access Reviews
-- Lifecycle Workflows
-
-### Application Identity
-- Enterprise Applications
-- App Registrations
-- Service Principals
-- Managed Identities
-
----
+- Identity Governance
+- Microsoft Graph PowerShell
+- SC-300 exam concepts
 
 ## Technologies
 
 - HTML
 - CSS
 - JavaScript
-- Microsoft Entra ID
-- Microsoft Graph PowerShell
 
 ---
 
-## Purpose
-
-This project was built to strengthen practical Microsoft Entra ID administration skills while preparing for the Microsoft SC-300 certification and real-world IAM Administrator responsibilities.
+This project was built as a personal learning platform to strengthen Microsoft Entra ID administration skills through hands-on practice and realistic IAM scenarios.
