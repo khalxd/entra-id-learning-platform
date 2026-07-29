@@ -2,7 +2,11 @@
 
 An interactive Microsoft Entra ID learning platform designed to provide hands-on IAM practice through guided labs that simulate real administrative tasks.
 
-![Microsoft Entra ID Interactive Homelab Dashboard](images/dashboard.png)
+[![Microsoft Entra ID Interactive Homelab Dashboard](images/dashboard.png)](https://khalxd.github.io/entra-id-learning-platform/)
+
+## Live Demo
+
+🌐 https://khalxd.github.io/entra-id-learning-platform/
 
 ## Features
 
