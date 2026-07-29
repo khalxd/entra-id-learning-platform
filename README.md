@@ -27,7 +27,3 @@ Every guided step contains:
 7. **SC-300 / interview connection** when useful
 8. **Lab safety** when the action could affect access or secrets
 
-## Important
-This is a lab environment. Keep Conditional Access in Report-only while learning, avoid assigning Global Administrator just to complete a task, and never put passwords, Temporary Access Pass values, or client-secret values in GitHub.
-
-Replace the old `index.html` and `README.md` in the existing GitHub Pages repository with these files.
