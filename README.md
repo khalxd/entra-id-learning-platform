@@ -1,29 +1,72 @@
-# Microsoft Entra ID IAM Homelab v3
+# Microsoft Entra ID Interactive Homelab
 
-A rebuilt interactive homelab with **31 labs** and **130 guided steps**.
+An interactive Microsoft Entra ID learning platform designed to provide hands-on IAM practice through guided labs that simulate real administrative tasks.
 
-## What was fixed
-- All 31 lab cards open real interactive content.
-- No placeholder alert-only labs.
-- Previous / Mark Done & Continue / step-number navigation are explicitly wired.
-- Lab review screen works.
-- Dark mode persists.
-- Notes and progress persist in localStorage.
-- Search works in the sidebar and dashboard.
-- Export progress works.
-- Reset progress works.
-- Help modal creates a prompt for the exact current step.
-- Existing Lab 1 progress is migrated from older versions when those localStorage keys exist.
-- Dynamic-group troubleshooting explicitly accounts for processing delay and Validate Rules.
+The homelab contains **31 labs**, **130 guided steps**, and covers identity administration, role management, authentication, governance, workload identities, and Microsoft Graph PowerShell.
 
-## Instruction format
-Every guided step contains:
-1. **Where to go**
-2. **What to click / do**
-3. **What to enter / configure**
-4. **Why you're doing it**
-5. **How to verify it worked**
-6. **Troubleshooting**
-7. **SC-300 / interview connection** when useful
-8. **Lab safety** when the action could affect access or secrets
+---
 
+## Features
+
+- 31 interactive Microsoft Entra ID labs
+- 130 guided step-by-step exercises
+- Progress tracking with local save
+- Lab search and navigation
+- Dark mode
+- Notes for every lab
+- Progress export and reset
+- Troubleshooting guidance
+- SC-300 exam connections
+- Real-world IAM scenarios
+
+---
+
+## Learning Topics
+
+### Identity Administration
+- Tenant configuration
+- User lifecycle management
+- Groups and memberships
+- Bulk user operations
+- Microsoft Graph PowerShell
+
+### Roles & Privileged Access
+- Directory roles
+- Administrative Units
+- Privileged Identity Management (PIM)
+- Emergency access accounts
+
+### Authentication & Access
+- Authentication methods
+- Conditional Access
+- Identity Protection
+- Password reset
+- Temporary Access Pass
+- Windows Hello for Business
+
+### Identity Governance
+- Entitlement Management
+- Access Reviews
+- Lifecycle Workflows
+
+### Application Identity
+- Enterprise Applications
+- App Registrations
+- Service Principals
+- Managed Identities
+
+---
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Microsoft Entra ID
+- Microsoft Graph PowerShell
+
+---
+
+## Purpose
+
+This project was built to strengthen practical Microsoft Entra ID administration skills while preparing for the Microsoft SC-300 certification and real-world IAM Administrator responsibilities.
